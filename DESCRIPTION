@@ -1,0 +1,5 @@
+Package: rRabbit
+Title: Simple Interface to RabbitMQ
+Author: Robert Fach <robert.fach@gmx.net>
+Depends: rJava
+SystemRequirements: Java JDK
