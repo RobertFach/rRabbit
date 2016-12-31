@@ -1,4 +1,5 @@
 Package: rRabbit
+Version: 0.0.1
 Title: Simple Interface to RabbitMQ
 Author: Robert Fach <robert.fach@gmx.net>
 Depends: rJava
